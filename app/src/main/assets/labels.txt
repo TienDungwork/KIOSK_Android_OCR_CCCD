@@ -1,0 +1,6 @@
+Chip
+Flag
+ID
+ID_number
+Image
+QR
